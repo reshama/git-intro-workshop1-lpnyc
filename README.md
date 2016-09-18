@@ -18,7 +18,7 @@ Email:   reshama.shaikh@stern.nyu.edu
 ---
 
 ### Class Repo
-https://github.com/WiMLDS/git_intro_workshop
+https://github.com/reshama/git_intro_workshop
 
 ---
 
