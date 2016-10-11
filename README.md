@@ -31,9 +31,13 @@ https://github.com/reshama/git-intro-workshop
 
 ###Objectives
 * Introduction to Git & GitHub
+     * GitHub browser; settings; navigating page
 * Individual account:  learn to create a repo on GitHub and update via Git
 * Individual account:  create a repo and give others access to it
-* Organization account:  create a branch and work from it; submit pull requests from there
+* Organization account:  
+     * Fork a repo
+     * Clone a repo 
+     * Create a branch and work from it; submit pull requests from there
 
 ### Table of Contents
 
