@@ -12,7 +12,7 @@ Email:   reshama.shaikh@stern.nyu.edu
 * Data Scientist (Statistician, MBA)
 * Teacher
 * Organizer of meetup group:  
-     NYC Women in Machine Learning & Data Science
+     [NYC Women in Machine Learning & Data Science](http://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/)
      http://wimlds.org/
 
 ---
