@@ -53,3 +53,7 @@ https://github.com/reshama/git-intro-workshop
 
 ---
 
+### Resources
+
+####[Setting up a credential manager (no more login when pushing/pulling)](https://help.github.com/articles/caching-your-github-password-in-git/)
+
