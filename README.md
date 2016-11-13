@@ -55,6 +55,7 @@ https://github.com/reshama/git-intro-workshop
 
 ### Resources
 
+####[Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 ####[Setting up a credential manager (no more login when pushing/pulling)](https://help.github.com/articles/caching-your-github-password-in-git/)
 
 ####[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
