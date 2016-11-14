@@ -21,8 +21,10 @@
 
 ##Step 3:  Add collaborators (if you would like to share)
 
+- Settings / Collaborators
+- add GitHub username
 
-##Step 4:  Clone repo
+## Step 4:  Clone repo
 
 ### Go to directory on local computer  
 For me, it is: 
