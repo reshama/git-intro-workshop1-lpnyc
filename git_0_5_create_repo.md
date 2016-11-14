@@ -127,7 +127,7 @@ This sets a file for staging:
 `git add print_name.py`  
 
 >my example  
-```bash
+```
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ git add print_name.py
 
