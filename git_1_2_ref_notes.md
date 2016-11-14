@@ -1,5 +1,6 @@
+# Git Reference Notes
 
-# Add, commit, push a file
+## Add, commit, push a file
 
 ### 1. See what’s changed since the last commit
 `git status` shows files that have changed or are untracked  
@@ -30,7 +31,7 @@ $ git push origin master               # send it to (my forked) repo (branch = m
 
 --
 
-# Git commands (deleting & copying files with Git)
+## Git commands (deleting & copying files with Git)
 
 ###Important:  To Remove a File from the Repo
 `$ git rm filename`  
