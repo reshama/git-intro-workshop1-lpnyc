@@ -19,6 +19,9 @@ Email:   rs2715@stern.nyu.edu
 ### Class Repo
 https://github.com/reshama/git-intro-workshop
 
+[Git Terminology](git_0_intro.md)
+
+
 ---
 
 ###Prerequisites
