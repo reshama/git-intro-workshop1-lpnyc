@@ -3,7 +3,6 @@
 [A)  Add, commit, push a file](#section-a)  
 [B)  Deleting & copying (moving) files in Git](#section-b)  
 [C)  Branches](#section-c)  
-[D)  xxx](#section-d) 
 
 
 ## <a name="section-a"></a>A)  Add, commit, push a file
