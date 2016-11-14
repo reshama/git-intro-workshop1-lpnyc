@@ -1,6 +1,6 @@
 # Git:  Sample Branch Flow
 
-##Check what path you are in
+##Check your current directory location
 ```bash
 ds/metis/metisgh  master ✗                                                            ◒  
 ▶ ls
