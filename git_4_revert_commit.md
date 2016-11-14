@@ -4,6 +4,7 @@ Where you are:
  * you've committed some files, pushed to your local repo, and want to delete the commit
 
 ##View the commit log
+`git log -2`  
 ```console
 reshama$ git log -2
 commit a3334f177bed83528f5ab3883d87f1336f599f49
