@@ -41,6 +41,7 @@ In right column, find the link to **HTTPS clone URL** and **copy** that URL to b
 In terminal: 
 * `cd` in to directory where repo will be cloned
 * clone repo:   `git clone <url goes here>`
+ - Example:  `git clone https://github.com/reshama/data-science-from-scratch.git`
 * `cd` into cloned repo
 ```bash
 ▶ git clone https://github.com/reshama/data-science-from-scratch.git
