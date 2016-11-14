@@ -37,12 +37,13 @@ reshama$ git reset --soft HEAD~1    # use --soft to preserve changes that were m
 $ git reset HEAD <file>       
 ```
 
---
+---
 
+ 
+##Discard uncommitted changes to a file
 Situation:  
  - you've changed a file, but not yet committed the changes  
  
-##Discard uncommitted changes to a file
 ```bash
 git checkout README
 ```
