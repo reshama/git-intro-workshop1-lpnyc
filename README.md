@@ -1,9 +1,7 @@
-
 # Intro to Git Workshop
 
-##Presenter:  Reshama Shaikh
-
 ####Contact Info
+Presenter:  Reshama Shaikh
 LinkedIn:  https://www.linkedin.com/in/reshamas   
 Twitter:  [@reshamas](https://twitter.com/reshamas)  
 GitHub:  https://github.com/reshama  
