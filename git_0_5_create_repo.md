@@ -136,11 +136,7 @@ Untracked files:
 
 	print_name.py
 	print_name.py~
-
 nothing added to commit but untracked files present (use "git add" to track)
-
-~/git_work/starting_git  master ✗                                                 14m ◒  
-▶ 
 ```
 
 
