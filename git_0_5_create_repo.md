@@ -85,6 +85,8 @@ origin	https://github.com/reshama/starting_git.git (push)
 Already up-to-date.
 ```
 
+##Step 5:  Make changes on local computer 
+
 ### Let's make a change on local computer and push changes up to GitHub
 Use an editor of your choice to create a python file which will print your name.  
 My file `print_name.py` contains the following line of code:  
@@ -121,6 +123,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ 
 ```
+##Step 6:  Send changes from local computer to GitHub repo (sync repos)
 
 ## Git:  add, commit and push a file
 
