@@ -1,7 +1,7 @@
 #Git: Revert Commits
 
-Where you are:  
- * you've committed some files, pushed to your local repo, and want to delete the commit
+Situation:  
+ - you've committed some files, pushed to your local repo, and want to delete the commit
 
 ##View the commit log
 `git log -2`  
@@ -34,6 +34,11 @@ reshama$ git reset --soft HEAD~1    # use --soft to preserve changes that were m
 $ git reset HEAD <file>       
 ```
 
+--
+
+Situation:  
+ - you've changed a file, but not yet committed the changes  
+ 
 ##Discard uncommitted changes to a file
 ```bash
 git checkout README
