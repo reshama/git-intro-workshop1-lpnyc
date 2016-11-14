@@ -13,9 +13,9 @@
 ##Step 2:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
   - add a line with an emoji
-  - I added:  `Looking forward to Thanksgiving :turkey: !`
+  - I added:  _Looking forward to Thanksgiving :turkey: !_
 - Add a Python file:  `hello.py`
-  - add a line, the ubiquitous "Hello World!"
+  - add a line, the ubiquitous:  _Hello World!_
   
 **Note:  add a meaningful commit message**  
 
