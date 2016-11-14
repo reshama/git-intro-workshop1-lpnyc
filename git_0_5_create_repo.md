@@ -79,6 +79,69 @@ origin	https://github.com/reshama/starting_git.git (fetch)
 origin	https://github.com/reshama/starting_git.git (push)
 ```
 
+### We can 'pull' updates from GitHub version
+```bash
+▶ git pull
+Already up-to-date.
+```
+
+### Let's make a change on local computer and push changes up to GitHub
+Use an editor of your choice to create a python file which will print your name.  
+My file `print_name.py` contains the following line of code:  
+```python
+print("My name is Reshama")
+```
+
+```bash
+~/git_work/starting_git  master ✔                                                   11m  
+▶ emacs print_name.py
+
+~/git_work/starting_git  master ✗                                                 11m ◒  
+▶ python print_name.py 
+Hello, my name is Reshama
+
+~/git_work/starting_git  master ✗                                                 12m ◒  
+▶ 
+```
+
+### We made a change!  How does git track it?
+To see what changes have been made since last `git pull`, type `git status`  
+```bash
+▶ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	print_name.py
+	print_name.py~
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+~/git_work/starting_git  master ✗                                                 14m ◒  
+▶ 
+```
+
+## Git:  add, commit and push a file
+This sets a file for staging:  
+`git add print_name.py`  
+
+>my example  
+```bash
+▶ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	print_name.py
+	print_name.py~
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+~/git_work/starting_git  master ✗                                                 14m ◒  
+▶ 
+```
 
 
 
