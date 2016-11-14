@@ -1,4 +1,4 @@
-# Fork & Clone a repo
+# Fork & Clone a repo; Use branches
 
 ### Step 1:  Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
