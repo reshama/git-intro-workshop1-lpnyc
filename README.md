@@ -41,4 +41,4 @@ repo:  https://github.com/reshama/git-intro-workshop
 - [Create a repo and update it](git_1_create_repo_update.md)
 - [Fork another user's repo; use branches](git_2_fork_branch.md)
 - [Revert commits](git_3_revert_commit.md)
-- [Git notes for reference](git_4_ref_notes.md)
+- [Git notes for reference](git_4_reference_notes.md)
