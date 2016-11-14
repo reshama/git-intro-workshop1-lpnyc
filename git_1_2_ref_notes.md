@@ -1,6 +1,14 @@
 # Git Reference Notes
 
-## A)  Add, commit, push a file
+# Table of Contents
+
+[A)  Add, commit, push a file](#section-a)  
+[B)  Deleting & copying (moving) files in Git](#section-b)  
+[C)  Branches](#section-c)  
+[D)  xxx](#section-d) 
+
+
+## <a name="section-a"></a>A)  Add, commit, push a file
 
 ### 1. See what’s changed since the last commit
 `git status` shows files that have changed or are untracked  
@@ -31,7 +39,7 @@ $ git push origin master               # send it to (my forked) repo (branch = m
 
 --
 
-## B)  Git commands (deleting & copying files with Git)
+## <a name="section-b"></a>B)  Deleting & copying (moving) files in Git
 
 ###Important:  To Remove a File from the Repo
 `$ git rm filename`  
@@ -47,7 +55,9 @@ $ git push origin master               # send it to (my forked) repo (branch = m
 
 --
 
-## C)  Git Branch  
+## <a name="section-c"></a>C)  Branches
+
+
 [Helpful Tutorial:  Using Branches on Git](https://www.atlassian.com/git/tutorials/using-branches)  
 
 Why use branches?
