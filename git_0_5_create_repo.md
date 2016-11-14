@@ -49,6 +49,25 @@ Unpacking objects: 100% (15/15), done.
 Checking connectivity... done.
 ```
 
+### `cd` into cloned repo
+
+```bash
+▶ pwd
+/Users/reshamashaikh/git_work/starting_git
+
+▶ ls
+total 0
+drwxr-xr-x  7   238 Nov 14 11:29 data-science-from-scratch
+drwxr-xr-x  6   204 Nov 14 11:48 starting_git
+
+~/git_work  master ✗                                                                  ◒  
+▶ cd starting_git 
+
+~/git_work/starting_git  master ✔                                                    6m  
+▶ 
+```
+
+
 
 
 
