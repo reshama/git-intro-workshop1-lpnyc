@@ -33,7 +33,7 @@ reshama$ git reset --soft HEAD~1    # use --soft to preserve changes that were m
 
 ##Unstage a file
 ```
-$ git reset HEAD <file>       
+git reset HEAD <file>       
 ```
 
 ---
