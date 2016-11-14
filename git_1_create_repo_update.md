@@ -26,6 +26,8 @@
 
 ## Step 4:  Clone repo
 
+### Select green button "Clone or download" and copy url
+
 ### Go to directory on local computer  
 For me, it is: 
 `/Users/reshamashaikh/git_work`  
