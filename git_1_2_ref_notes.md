@@ -7,24 +7,24 @@
 
 ## <a name="section-a"></a>A)  Add, commit, push a file
 
-### 1. See what’s changed since the last commit
+#### 1. See what’s changed since the last commit
 `git status` shows files that have changed or are untracked  
 `git diff [optional: filename]` shows the changes themselves
 
-### 2. “Stage” the things you want to include in your commit
+#### 2. “Stage” the things you want to include in your commit
 This includes both files that have changed and new files you want to add.
 
 `git add <file or directory>`
 
-### 3. Commit your changes and add a useful message
+#### 3. Commit your changes and add a useful message
 
 `git commit -m ‘message goes here’`
 
-### 4. Push to the origin repo
+#### 4. Push to the origin repo
 syntax:  `git push <remote> <branch>`  
 `git push origin master`
 
-### Adding, committing a file
+#### Adding, committing a file
 >my example 
 ```
 $ git status
@@ -38,16 +38,16 @@ $ git push origin master               # send it to (my forked) repo (branch = m
 
 ## <a name="section-b"></a>B)  Deleting & copying (moving) files in Git
 
-###Important:  To Remove a File from the Repo
+#### Important:  To Remove a File from the Repo
 `$ git rm filename`  
 
-###Important:  To Rename or Move a File in the Repo
+#### Important:  To Rename or Move a File in the Repo
 `$ git mv filename` 
 
-###List of Git commands
+#### List of Git commands
 `$ git`
 
-###Git log
+#### Git log
 `$ git log`
 
 --
