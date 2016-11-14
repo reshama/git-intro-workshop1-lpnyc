@@ -70,8 +70,9 @@ drwxr-xr-x  6   204 Nov 14 11:48 starting_git
 ### Check out the remote
 Note:  
 - a 'remote' is a copy of a repository
-- notice you have push and pull access
->my example
+- notice you have push and pull access  
+
+>my example  
 ```bash
 ▶ git remote -v
 origin	https://github.com/reshama/starting_git.git (fetch)
