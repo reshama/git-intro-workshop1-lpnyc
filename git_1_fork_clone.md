@@ -85,39 +85,41 @@ origin	https://github.com/reshama/data-science-from-scratch.git (push)
 ▶ 
 ```
 
---
+### Create a branch
+```bash
+~/git_work/data-science-from-scratch  master ✔                                     498d  
+▶ git branch
+* master
 
-### Step 4:  Add remote upstream 
-`$ git remote add upstream <url goes here>`
+~/git_work/data-science-from-scratch  master ✔                                     498d  
+▶ git branch reshama_wip
 
-If there are changes to the original repo, how do you get them?  You need to tell your local repo that it can also get updates from the original.
+~/git_work/data-science-from-scratch  master ✔                                     498d  
+▶ git branch
+* master
+  reshama_wip
 
-Origin:  reshama/nyc16_ds9
-
-
-**Note:  Need to be in that directory on Unix to update repo**
-```
-$ git remote -v
-origin	https://github.com/reshama/nyc16_ds9.git (fetch)
-origin	https://github.com/reshama/nyc16_ds9.git (push)
-```
-
-Want to add reference to metis repo (which is master repo)
-Note:  can call it “upstream” or “root” or any other name
-```
-$ git remote add upstream https://github.com/thisismetis/nyc16_ds9.git
+~/git_work/data-science-from-scratch  master ✔                                     498d  
+▶ 
 ```
 
-Now we see we have two remotes: 
-* origin
-* upstream
+### Switch to working branch
+```bash
+~/git_work/data-science-from-scratch  master ✔                                     498d  
+▶ git checkout reshama_wip
+Switched to branch 'reshama_wip'
+
+~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
+▶ 
 ```
-$ git remote -v
-origin	https://github.com/reshama/nyc16_ds9.git (fetch)
-origin	https://github.com/reshama/nyc16_ds9.git (push)
-upstream	https://github.com/thisismetis/nyc16_ds9.git (fetch)
-upstream	https://github.com/thisismetis/nyc16_ds9.git (push)
+
+### Launch notebook from working branch (leave master branch intact)
+```bash
+~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
+▶ jupyter notebook
 ```
+
+
 --
 ### Step 5:  Sync repos
 #### Workflow:  get files from metis (master) down to local (my computer) and up to origin (me/nyc16_ds9)
