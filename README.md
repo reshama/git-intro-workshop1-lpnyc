@@ -1,6 +1,4 @@
 
-https://www.meetup.com/girldevelopit/events/234793384/
-
 # Intro to Git Workshop
 
 ##Presenter:  Reshama Shaikh
