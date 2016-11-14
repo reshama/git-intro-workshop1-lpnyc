@@ -11,8 +11,8 @@ Email:   rs2715@stern.nyu.edu
 * Data Scientist (Statistician, MBA)
 * Teacher
 * Organizer of WiMLDS meetup group
-     * [NYC Women in Machine Learning & Data Science](http://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/)
-     * http://wimlds.org/
+     - [NYC Women in Machine Learning & Data Science](http://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/)
+     - http://wimlds.org/
 
 ---
 
