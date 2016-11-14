@@ -1,7 +1,5 @@
 # Git Reference Notes
 
-# Table of Contents
-
 [A)  Add, commit, push a file](#section-a)  
 [B)  Deleting & copying (moving) files in Git](#section-b)  
 [C)  Branches](#section-c)  
