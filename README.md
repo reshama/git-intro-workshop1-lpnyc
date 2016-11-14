@@ -36,18 +36,9 @@ https://github.com/reshama/git-intro-workshop
 * Individual account:  learn to create a repo on GitHub and update via Git
 * Individual account:  create a repo and give others access to it
 * Organization account:  
-     * Fork a repo
-     * Clone a repo 
-     * Create a branch and work from it; submit pull requests from there
-
-### Table of Contents
-
-[1. Adding Emoji to Bash Prompt](1_bash_emoji.md)  
-[2. Setting up bash_profile (with aliases (aka shortcuts) to save you time)](2_bash_profile_setup.md)  
-[3. Use bash commands (Unix commands)](3_bash_commands.md)  
-[4. Markdown files - the basics](4_markdown.md)  
-[5. Editor keystroke shortcuts](5_editor_shortcuts.md)  
-[6. GREP (search)](/grep_tutorial/) 
+     - Fork a repo
+     - Clone a repo 
+     - Create a branch and work from it 
 
 ---
 
