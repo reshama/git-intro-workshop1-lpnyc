@@ -9,7 +9,7 @@ https://www.meetup.com/girldevelopit/events/234793384/
 LinkedIn:  https://www.linkedin.com/in/reshamas   
 Twitter:  [@reshamas](https://twitter.com/reshamas)  
 GitHub:  https://github.com/reshama  
-Email:   reshama.shaikh@stern.nyu.edu  
+Email:   rs2715@stern.nyu.edu  
 
 ####About Me
 * Data Scientist (Statistician, MBA)
@@ -29,8 +29,8 @@ https://github.com/reshama/git-intro-workshop
 * Create a GitHub account
 * Unix access (Mac / Ubuntu-Linux)
 * Git Installation
-  * Install Git
-  * Confirm installation with `$ git --version`
+  - Install Git
+  - Confirm installation with `$ git --version`
 
 ###Objectives
 * Introduction to Git & GitHub
