@@ -179,3 +179,21 @@ nothing added to commit but untracked files present (use "git add" to track)
 ▶ 
 ```
 
+### `git push` (push changes up to GitHub browser)
+
+```bash
+▶ git push
+Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 316 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local objects.
+To https://github.com/reshama/starting_git.git
+   2a119c3..bfefcd3  master -> master
+
+```
+
+Voila! Check out your forked repo on the browser and the `print_name.py` file should be there!
+
+
