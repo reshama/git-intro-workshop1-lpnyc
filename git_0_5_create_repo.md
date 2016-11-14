@@ -123,6 +123,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 ```
 
 ## Git:  add, commit and push a file
+
+### `add` a file
 This sets a file for staging:  
 `git add print_name.py`  
 
@@ -153,5 +155,27 @@ Untracked files:
 ▶ 
 ```
 
+### `git commit -m 'message'`
 
+```bash
+▶ git commit -m 'adding file that prints my name'
+[master bfefcd3] adding file that prints my name
+ 1 file changed, 1 insertion(+)
+ create mode 100644 print_name.py
+
+~/git_work/starting_git  master ✗                                                  0m ◒  
+▶ git status
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	print_name.py~
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+~/git_work/starting_git  master ✗                                                  0m ◒  
+▶ 
+```
 
