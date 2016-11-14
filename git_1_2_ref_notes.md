@@ -7,7 +7,7 @@
 
 ## <a name="section-a"></a>A)  Add, commit, push a file
 
-#### 1. See what’s changed since the last commit
+#### 1. See what’s changed since the last commit / repo sync
 `git status` shows files that have changed or are untracked  
 `git diff [optional: filename]` shows the changes themselves
 
