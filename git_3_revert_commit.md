@@ -1,4 +1,4 @@
-#Git: Revert Commits
+# Revert Commits
 
 Situation:  you've committed some files, pushed to your local repo, and want to delete the commit
 
