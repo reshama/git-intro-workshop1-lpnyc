@@ -26,6 +26,8 @@
 ### Go to directory on local computer  
 For me, it is: 
 `/Users/reshamashaikh/git_work`  
+
+>my example
 ```bash
 ~/git_work  master ✗                                                                  ◒  
 ▶ pwd
@@ -34,6 +36,8 @@ For me, it is:
 
 ### Clone repo
 `git clone https://github.com/reshama/starting_git.git`  
+
+>my example  
 ```bash
 ~/git_work  master ✗                                                                  ◒  
 ▶ git clone https://github.com/reshama/starting_git.git
@@ -43,9 +47,6 @@ remote: Compressing objects: 100% (10/10), done.
 remote: Total 15 (delta 1), reused 0 (delta 0), pack-reused 0
 Unpacking objects: 100% (15/15), done.
 Checking connectivity... done.
-
-~/git_work  master ✗                                                                  ◒  
-▶ 
 ```
 
 
