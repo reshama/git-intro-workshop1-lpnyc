@@ -11,10 +11,19 @@
 - Select green button `Initialize this repository with a README`
 
 ##Step 2:  Let's add a couple of files
-- Add a Markdown file
-- Add a Python file
+- Add a Markdown file:  `holiday.md`
+  - add a line with an emoji
+- Add a Python file:  `hello.py`
+  - add a line, the ubiquitous "Hello World!"
+  
+**Note:  add a meaningful commit message**  
 
-##Step 3:  Add collaborators
+##Step 3:  Add collaborators (if you would like to share)
+
+
+##Step 4:  Clone repo
+
+### Go to directory on local computer  
 
 
 
