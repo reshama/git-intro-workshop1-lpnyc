@@ -1,9 +1,9 @@
 #Git Terminology
 
-###Git     --[terminal]
+## Git     --[terminal]
 Git is a system for version control. It runs at the **command line on your local machine** and allows you to keep track of your files and modifications in a "repository". 
 
-###GitHub    --[browser]
+## GitHub    --[browser]
 GitHub is a **website** that allows you to upload your git respositories online. It allows you to have a backup of your files, has a visual interface to navigate your repos, and it allows other people to be able to view your repos. 
 
 GitHub is a central place to store your repo, so others can clone it, push to it, and pull from it.
@@ -25,9 +25,9 @@ Version control systems are a category of software tools that help a software te
 ## Remotes 
 Remotes are copies of a repo on another computer **(or on a service like Github)**  
 
-We will use 2 remotes in this course:  
+Example:  
 * `upstream` [organization repo]
 * `origin`   [your forked repo]
 
 ## Branches
-Branching means you diverge from the main line of development and continue to do work without messing with that main line. 
+Branching means you diverge from the main line of development and continue to do work without changing the main line. 
