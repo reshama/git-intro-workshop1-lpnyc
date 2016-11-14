@@ -21,7 +21,8 @@ This includes both files that have changed and new files you want to add.
 `git commit -m ‘message goes here’`
 
 #### 4. Push to the origin repo
-syntax:  `git push <remote> <branch>`  
+syntax:  
+`git push <remote> <branch>`  
 `git push origin master`
 
 #### Adding, committing a file
