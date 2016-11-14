@@ -40,16 +40,16 @@ $ git push origin master               # send it to (my forked) repo (branch = m
 ## <a name="section-b"></a>B)  Deleting & copying (moving) files in Git
 
 #### Important:  To Remove a File from the Repo
-`$ git rm filename`  
+`git rm filename`  
 
 #### Important:  To Rename or Move a File in the Repo
-`$ git mv filename` 
+`git mv filename` 
 
 #### List of Git commands
-`$ git`
+`git`
 
 #### Git log
-`$ git log`
+`git log`
 
 --
 
