@@ -8,7 +8,7 @@
 - Description (optional):  `test project for git`
 - `Public` repos are free
 - Check box for `Initialize this repository with a README`
-- Select green button `Initialize this repository with a README`
+- Select green button `Create repository`
 
 ##Step 2:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
