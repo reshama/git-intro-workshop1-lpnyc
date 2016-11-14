@@ -130,7 +130,11 @@ This sets a file for staging:
 ```
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ git add print_name.py
+```
 
+
+
+```
 ~/git_work/starting_git  master ✗                                               15m ✚ ◒  
 ▶ git status
 On branch master
