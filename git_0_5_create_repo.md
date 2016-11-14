@@ -134,8 +134,7 @@ This sets a file for staging:
 
 
 
-```
-~/git_work/starting_git  master ✗                                               15m ✚ ◒  
+```bash
 ▶ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
