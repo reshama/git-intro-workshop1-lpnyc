@@ -1,7 +1,6 @@
 #Git: Revert Commits
 
-Situation:  
- - you've committed some files, pushed to your local repo, and want to delete the commit
+Situation:  you've committed some files, pushed to your local repo, and want to delete the commit
 
 ##View the commit log
 ```bash
@@ -41,8 +40,7 @@ $ git reset HEAD <file>
 
  
 ##Discard uncommitted changes to a file
-Situation:  
- - you've changed a file, but not yet committed the changes  
+Situation:  you've changed a file, but not yet committed the changes  
  
 ```bash
 git checkout README
