@@ -128,14 +128,26 @@ This sets a file for staging:
 
 >my example  
 ```bash
+~/git_work/starting_git  master ✗                                                 14m ◒  
+▶ git add print_name.py
+
+~/git_work/starting_git  master ✗                                               15m ✚ ◒  
 ▶ git status
 On branch master
 Your branch is up-to-date with 'origin/master'.
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   print_name.py
+
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
-	print_name.py
+
 	print_name.py~
-nothing added to commit but untracked files present (use "git add" to track)
+
+
+~/git_work/starting_git  master ✗                                               17m ✚ ◒  
+▶ 
 ```
 
 
