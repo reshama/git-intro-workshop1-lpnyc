@@ -3,12 +3,12 @@
 ### Step 1:  Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/thisismetis/nyc16_ds9   (**bookmark this!**)
+In this example, it is:  https://github.com/joelgrus/data-science-from-scratch
 
 ### Step 2:  Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/nyc16_ds9  (**bookmark this!**)
+Go to my forked repo: https://github.com/reshama/data-science-from-scratch
 
  
 ### Step 3:  Clone repo
