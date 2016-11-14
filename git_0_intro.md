@@ -27,7 +27,7 @@ Version control systems are a category of software tools that help a software te
 Remotes are copies of a repo on another computer **(or on a service like Github)**  
 
 We will use 2 remotes in this course:  
-* `upstream` thisismetis/nyc16_ds9
+* `upstream` [organization repo]
 * `origin`   [your forked repo]
 
 ## Branches
