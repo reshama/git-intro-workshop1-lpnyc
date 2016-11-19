@@ -96,7 +96,6 @@ Why use branches?
 
 ###Copy file/folder from one branch to current branch (`master`)
 
-####Copy file from one branch to current branch (`master`)
 Run this from the branch where you want the file to end up:  
 on:  `master` branch
 ```
