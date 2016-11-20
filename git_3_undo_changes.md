@@ -23,7 +23,7 @@ git log
 ```bash
 git log -2
 ```
->>my example  
+>my example  
 ```console
 reshama$ git log -2
 commit a3334f177bed83528f5ab3883d87f1336f599f49
