@@ -24,7 +24,7 @@ repo:  https://github.com/reshama/git-intro-workshop
 * Unix access (Mac / Ubuntu-Linux)
 * Git Installation
   - Install Git
-  - Confirm installation with `$ git --version`
+  - Confirm installation with `git --version`
 
 ### Objectives
 * Introduction to Git & GitHub
