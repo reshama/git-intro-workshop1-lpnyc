@@ -2,7 +2,7 @@
 
 
 ##Step 1: Create a repo using GitHub (on web browser)
-- Click on "+" next to your profile picture
+- Click on `+` next to your profile picture
 - Select `New Repository`
 - Repository name:  `starting_git`
 - Description (optional):  `test project for git`
