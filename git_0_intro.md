@@ -33,6 +33,8 @@ Example:
 Branching means you diverge from the main line of development and continue to do work without changing the main line. 
 
 
+## Account settings
+
 ---
 
 ## Resources
