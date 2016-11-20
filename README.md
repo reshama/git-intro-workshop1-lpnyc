@@ -39,7 +39,7 @@ repo:  https://github.com/reshama/git-intro-workshop
 ### Workshop Documents
 - [Git terminology](git_1_intro.md)
 - [Create a repo and update it](git_2_create_repo_update.md)
-- [Save changes](git_3_save_changes.md)
+- [Save work](git_3_save_changes.md)
 - [Fork another user's repo; use branches](git_4_fork_branch.md)
 - [Undo work (Reset, Checkout, and Revert)](git_5_undo_work.md)
 - [Git notes for reference](git_6_reference_notes.md)
