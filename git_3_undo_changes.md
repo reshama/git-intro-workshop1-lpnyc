@@ -22,9 +22,11 @@ git log
 #### View last 2 commits
 ```bash
 git log -2
-```
+```  
+
 >my example  
-```console
+
+```
 reshama$ git log -2
 commit a3334f177bed83528f5ab3883d87f1336f599f49
 Author: reshama <rs2715@gmail.com>
@@ -38,7 +40,7 @@ Date:   Tue May 24 11:04:06 2016 -0400
 
     adding test3 file
 reshama$ 
-```
+```  
 
 ## Situation:  you've committed some files, pushed to your local repo, and want to delete the commit
 
