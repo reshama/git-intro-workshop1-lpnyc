@@ -1,26 +1,29 @@
 # Undo work in Git
 
+## Use cases
+
 | Command        | Scope              | Common use cases |    
 |----------------|--------------------|------------------|
 | `git reset`    | Commit-level       | Discard commits in a private branch or throw away uncommited changes  |  
-| `git reset`    | File-level	      | Unstage a file |
+| `git reset`    | File-level	        | Unstage a file |
 |                |                    |                |
 | `git checkout` | Commit-level	      | Switch between branches or inspect old snapshots |
-| `git checkout` | File-level	      | Discard changes in the working directory |
+| `git checkout` | File-level	        | Discard changes in the working directory |
 |                |                    |                |
-| `git revert`	 | Commit-level	      | Undo commits in a public branch |
-| `git revert`	 | File-level	      | (N/A) |
+| `git revert`	  | Commit-level	      | Undo commits in a public branch |
+| `git revert`	  | File-level	        | (N/A) |
 
 
- 
+## View log of Git activity
+```bash
+git log
+```
 
-Situation:  you've committed some files, pushed to your local repo, and want to delete the commit
-
-##View the commit log
+#### View last 2 commits
 ```bash
 git log -2
-```  
-
+```
+>>my example  
 ```console
 reshama$ git log -2
 commit a3334f177bed83528f5ab3883d87f1336f599f49
@@ -36,6 +39,12 @@ Date:   Tue May 24 11:04:06 2016 -0400
     adding test3 file
 reshama$ 
 ```
+
+## Situation:  you've committed some files, pushed to your local repo, and want to delete the commit
+
+ 
+
+
  
 ##How to undo a commit:   
 On the commit-level, resetting is a way to move the tip of a branch to a different commit. This can be used to remove commits from the current branch. For example, the following command moves the hotfix branch backwards by two commits.
