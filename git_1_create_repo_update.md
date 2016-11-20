@@ -132,7 +132,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit. However, git add doesn't really affect the repository in any significant way—changes are not actually recorded until you run git commit.
 
 # Git Flow 
-| Step  | Command                   |  Description|    
+| #  | Command                   |  Description|    
 |-------|---------------------------| ------------------|
 |  1    | `git add <filename>`      |  adds a change in the working directory to the staging area.  It tells Git that you want to include updates to a particular file in the next commit.  |  
 |  2    | `git commit -m "message"` | changes are recorded in git |
