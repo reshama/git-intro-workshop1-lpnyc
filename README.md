@@ -20,7 +20,7 @@ repo:  https://github.com/reshama/git-intro-workshop
 ---
 
 ### Prerequisites
-* Create a GitHub account
+* Create a GitHub account (save your user id & password somewhere that is easy to find)
 * Unix access (Mac / Ubuntu-Linux)
 * Git Installation
   - Install Git
