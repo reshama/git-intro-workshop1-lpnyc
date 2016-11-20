@@ -37,7 +37,7 @@ repo:  https://github.com/reshama/git-intro-workshop
      - Create a branch and work from it 
 
 ### Workshop Documents
-- [Git Terminology](git_0_intro.md)
+- [Git terminology](git_0_intro.md)
 - [Create a repo and update it](git_1_create_repo_update.md)
 - [Fork another user's repo; use branches](git_2_fork_branch.md)
 - [Undo work (Reset, Checkout, and Revert)](git_3_undo_work.md)
