@@ -1,4 +1,4 @@
-# Saving Work
+# Save Work
 task:  end changes from local computer to GitHub repo (sync repos)
 
 ## Git Flow 
