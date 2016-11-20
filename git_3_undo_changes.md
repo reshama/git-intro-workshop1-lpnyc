@@ -60,6 +60,8 @@ git reset --hard HEAD^     # use --hard if you don't care about keeping the chan
 git reset --soft HEAD~1    # use --soft to preserve changes that were made and undo last commit (~1 = back 1 commit)
 ```
 
+**Syntax for Windows Users:  **  
+Note:  use `~` instead of `^`  
 
 ---
 
