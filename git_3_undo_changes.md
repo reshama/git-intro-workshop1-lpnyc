@@ -83,7 +83,7 @@ test
 ---
 
 ###References
-[Reset, Checkout and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations)
+[Reset, Checkout and Revert](https://www.atlassian.com/git/tutorials/resetting-checking-out-and-reverting/commit-level-operations)  
 [Stack Overflow:  How do you undo the last commit](http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit)  
 [Stack Overflow:  Remove files from last commit](http://stackoverflow.com/questions/12481639/remove-files-from-git-commit)  
 
