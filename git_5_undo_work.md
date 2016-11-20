@@ -1,4 +1,4 @@
-# Undo work in Git
+# Undo work (Reset, Checkout, and Revert)
 
 ## Use cases
 
