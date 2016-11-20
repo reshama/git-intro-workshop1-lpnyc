@@ -34,6 +34,7 @@ Branching means you diverge from the main line of development and continue to do
 
 
 ## Account settings
+- review account options
 
 ---
 
